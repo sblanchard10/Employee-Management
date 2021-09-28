@@ -36,14 +36,4 @@ A Node/Express CLI app that allows users to manage their employees.
 
 run `npm test` to execute jest tests
 
-## Packages
 
-- jest
-- inquirer
-- mysql2
-- console.table
-- figlet
-
-## Screen Recording
-
-![GIF]
